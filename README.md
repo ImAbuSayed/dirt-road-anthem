@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want you closer than the midnight air,
+> Tangled up together with the starlight in your hair.
+> We got nowhere to be and a whole lot of time,
+> Yeah, the way you look at me is a beautiful crime.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
