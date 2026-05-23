@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dirt-road-anthem/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dirt Road Anthem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dirt-road-anthem/) |
+| **Get License** | [Get a Licensing Quote for Dirt Road Anthem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dirt-road-anthem/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e89594454474a9fef2b17c565ccdfc524fba3fdd93b2c6a70842a2fd076fb67c` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

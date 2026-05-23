@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dirt Road Anthem
+
+This log tracks the cryptographic history and versioning for the song **Dirt Road Anthem** (dirt-road-anthem).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T07:00:40.398453 | `v1` | `e89594454474a9fef2b17c565ccdfc524fba3fdd93b2c6a70842a2fd076fb67c` | `644948cffe234cf5454393b49748bb28d312fb439edcb26cf7bd29d94ad55204` | `2026-05-23_dirt-road-anthem-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
